@@ -60,5 +60,3 @@ Implement top‑k / nucleus sampling for more diverse text 🎲
 Train on larger corpora for improved coherence 📚
 🤝 Contributing
 Contributions are welcome! Open an issue or submit a PR.
-Follow the repo’s style and document your changes.
-📄 License
